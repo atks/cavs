@@ -25,7 +25,7 @@ generate_download_databases_pipeline
 
 =head1 DESCRIPTION
 
-This script implements the pipeline for downloading virus database.
+This script implements the pipeline for downloading virus database.dfd
 
 =cut
 
